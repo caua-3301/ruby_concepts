@@ -19,3 +19,5 @@ class Aluno
   #   @nome = nome
   # end
 end
+
+#exercicio
